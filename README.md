@@ -1,5 +1,5 @@
+# 冒泡排序
 ```
-# in-the-class
 #include <stdio.h>
 void sort(int a[],int lengh );
 int main(){
@@ -18,12 +18,6 @@ int main(){
 
     for(i=0;i<8;i++)
         printf("%d:%d\n",i+1,a[i]);
-
-
-
-
-
-
 
     return 0;
 }
