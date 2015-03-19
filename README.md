@@ -1,3 +1,4 @@
+```
 # in-the-class
 #include <stdio.h>
 void sort(int a[],int lengh );
@@ -40,5 +41,6 @@ void sort(int a[],int lengh ){
     }
 
 }
+```
 
 
