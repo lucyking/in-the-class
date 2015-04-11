@@ -1,8 +1,9 @@
 #summmary
 
 
-'
-    switch(char){
+
+    switch(char)
+    {
     case 'a':
     break;
     }
@@ -11,4 +12,4 @@
     putchar(97);
     putcgar('a');
 
-'
+
