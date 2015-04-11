@@ -1,7 +1,7 @@
 #summmary
 
 
-
+"""
 switch(char){
 case 'a':
       ... ...
@@ -11,5 +11,5 @@ case 'a':
 putchar('\n');
 putchar(97);
 putcgar('a');
-
+"""
 
