@@ -1,15 +1,14 @@
 #summmary
 
 
-'''
-switch(char){
-case 'a':
-      ... ...
-      break;
-}
+'
+    switch(char){
+    case 'a':
+    break;
+    }
 
-putchar('\n');
-putchar(97);
-putcgar('a');
-'''
+    putchar('\n');
+    putchar(97);
+    putcgar('a');
 
+'
